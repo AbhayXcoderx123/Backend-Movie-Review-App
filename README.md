@@ -7,3 +7,5 @@ Frontend with NODEJS and store the data in MONGODB database.
 
 
 ![Screenshot (1263)](https://github.com/AbhayXcoderx123/Backend-Movie-Review-App/assets/103772939/12343e62-eead-4ef0-8404-7b9b2d0e5a12)
+
+For more Details  https://frontendmovie-review-app.abhaygupta40.repl.co/movie.html?id=455476&title=Knights%20of%20the%20Zodiac#
